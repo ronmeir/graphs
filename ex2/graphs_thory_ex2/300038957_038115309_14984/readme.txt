@@ -1,0 +1,1 @@
+function "ex2" will run questions 6,7,8
